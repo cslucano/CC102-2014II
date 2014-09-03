@@ -1,0 +1,17 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+  int x;
+  int y;
+  int z;
+
+  x = 8;
+  y = 3;
+
+  z = x / y;
+
+  printf("%d / %d = %d\n", x, y, z);
+   
+  return 0;
+}

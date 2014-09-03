@@ -1,0 +1,19 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+  // declaración  de tres variables enteras(4 bytes)
+  int a;
+  int b;
+  int c;
+  //int a, b, c;
+  
+  // asignamos de variables
+  a = 3;
+  b = 4;
+  c =  a + b;
+
+  printf("%d + %d = %d\n", a, b, c);
+
+  return 0;
+}
