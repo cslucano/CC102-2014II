@@ -13,7 +13,7 @@ int main()
      float suma=0;
      float p=5/3;
      
-     for(i=0;i<=m;m++)
+     for(i=0;i<=m;i++)
      {
        aux1=pow(p,2*i+1);
        aux2=(pow(-1,i))/(2*i+1);

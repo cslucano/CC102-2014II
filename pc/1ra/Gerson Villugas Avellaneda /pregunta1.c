@@ -9,7 +9,7 @@ pot=pow(x,2*i+1);
 b=2*i+1;
 i++;
 arctan=arctan+(pow(-1,2*i+1)*pot)/b;}
-while(arctan<pow(10,-6))
+while(arctan<pow(10,-6));
 printf("el arctan:%f",arctan);
 return 0;
 }
