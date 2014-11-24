@@ -3,7 +3,7 @@
 void Reposo(int f1[],int f2[],int f3[]);
 void Escribir(int f[]);
 int main() {
-	int i, n=3, f1[3]={1,2,3}, f2[3]={4,6,9}, f3[3]={-5,-8,-12};
+	int i, n=3, f1[3]={1,2,4}, f2[3]={4,6,9}, f3[3]={-5,-8,-12};
 	printf("%d\n",n);
 	Escribir(f1);
 	Escribir(f2);

@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-	int n,i;
+	int n,i, j;
 		
 	do{	
 	printf("ingrese el numero de cartas\n");

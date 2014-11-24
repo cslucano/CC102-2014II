@@ -27,7 +27,7 @@ int main(){
 	}
   //caso en el que juan gana al tener una carta mayor que la carta de ana
 	for(i=0;i<n;i++){
-		for(j=0;j<n;j++)[
+		for(j=0;j<n;j++){
 			m=0;
 			if (JUAN[i]>ANA[j])
 			m++;
