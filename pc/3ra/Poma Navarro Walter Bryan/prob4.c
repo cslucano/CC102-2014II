@@ -1,6 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define N 100	
+#define TAM 100	
 int main(){
 	char cad1[TAM+1];
 	char cad2[TAM+1];

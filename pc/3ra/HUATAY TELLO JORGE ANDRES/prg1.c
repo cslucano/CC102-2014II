@@ -9,7 +9,7 @@ int i, j ;
 
 
 puts("ingrese cadena\n");
-gets("%s",cad[TAM]);
+gets(cad);
 
 
 for(i=0;i<TAM;i++){
